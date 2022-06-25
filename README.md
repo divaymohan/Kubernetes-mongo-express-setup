@@ -1,1 +1,1 @@
-README.md
+![MarineGEO circle logo](./images/kube1.png "MarineGEO logo")
